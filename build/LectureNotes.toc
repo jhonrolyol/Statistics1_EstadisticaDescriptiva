@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Introducción}{3}{}%
+\contentsline {section}{\numberline {2}Ramas de la estadística}{3}{}%
+\contentsline {section}{\numberline {3}La Población y la Muestra}{4}{}%
+\contentsline {section}{\numberline {4}Variables estadísticas}{5}{}%
+\contentsline {section}{\numberline {5}Probabilidad de un Evento}{6}{}%
+\contentsline {section}{\numberline {6}Las etapas del método estadístico}{7}{}%
+\contentsline {subsection}{\numberline {6.1}La etapa de la planificación}{8}{}%
+\contentsline {subsection}{\numberline {6.2}Etapa de la recolección de información }{8}{}%
+\contentsline {subsubsection}{\numberline {6.2.1}Errores en las observaciones}{9}{}%
+\contentsline {subsubsection}{\numberline {6.2.2}Métodos en la recolección de la información}{9}{}%
+\contentsline {subsubsection}{\numberline {6.2.3}La elección de los individuos a estudiar}{9}{}%
+\contentsline {subsubsection}{\numberline {6.2.4}Diseño de formularios}{9}{}%
+\contentsline {subsection}{\numberline {6.3}Etapas de organización de la información}{9}{}%
+\contentsline {subsubsection}{\numberline {6.3.1}Revisión y correción de datos recopilados}{10}{}%
+\contentsline {subsubsection}{\numberline {6.3.2}Presentación de la información mediante cuadros y tablas}{10}{}%
+\contentsline {subsubsection}{\numberline {6.3.3}Presentación de la información mediante gráficos}{10}{}%
